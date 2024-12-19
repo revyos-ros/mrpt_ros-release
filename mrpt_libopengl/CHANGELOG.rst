@@ -2,6 +2,20 @@
 Changelog for package mrpt_libopengl
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.14.7 (2024-12-09)
+-------------------
+* mrpt::opengl::Texture now caches "texture names" (OpenGL texture IDs) via image data, boosting performance of MVSim boot up time.
+
+2.14.5 (2024-11-05)
+-------------------
+
+2.14.4 (2024-10-19)
+-------------------
+
+2.14.3 (2024-10-12)
+-------------------
+* mrpt::img::CImage::rotateImage(): Special angles 90,-90, 180 are handled as expected with a quick image transformation and rotation.
+
 2.14.2 (2024-10-05)
 -------------------
 * Add support for override_mrpt_version for local builds
