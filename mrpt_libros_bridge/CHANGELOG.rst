@@ -2,6 +2,21 @@
 Changelog for package mrpt_libros_bridge
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.14.11 (2025-05-31)
+--------------------
+* Fix build against all tf2 versions in all active ROS 2 distributions.
+
+2.14.10 (2025-05-23)
+--------------------
+* FIX: Fix build in ROS rolling: Unknown CMake command "ament_target_dependencies".
+
+2.14.9 (2025-05-17)
+-------------------
+* FIX: build against latest TF2 version.
+
+2.14.8 (2025-04-25)
+-------------------
+
 2.14.7 (2024-12-09)
 -------------------
 
