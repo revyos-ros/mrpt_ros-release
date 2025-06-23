@@ -1,0 +1,75 @@
+ros-jazzy-mrpt-libobs (2.14.11-1noble) noble; urgency=high
+
+
+
+ -- Jose-Luis Blanco-Claraco <joseluisblancoc@gmail.com>  Sat, 31 May 2025 00:00:00 -0000
+
+ros-jazzy-mrpt-libobs (2.14.10-1noble) noble; urgency=high
+
+
+
+ -- Jose-Luis Blanco-Claraco <joseluisblancoc@gmail.com>  Fri, 23 May 2025 00:00:00 -0000
+
+ros-jazzy-mrpt-libobs (2.14.9-1noble) noble; urgency=high
+
+
+
+ -- Jose-Luis Blanco-Claraco <joseluisblancoc@gmail.com>  Sat, 17 May 2025 00:00:00 -0000
+
+ros-jazzy-mrpt-libobs (2.14.8-1noble) noble; urgency=high
+
+
+
+ -- Jose-Luis Blanco-Claraco <joseluisblancoc@gmail.com>  Fri, 25 Apr 2025 00:00:00 -0000
+
+ros-jazzy-mrpt-libobs (2.14.7-1noble) noble; urgency=high
+
+
+
+ -- Jose-Luis Blanco-Claraco <joseluisblancoc@gmail.com>  Mon, 09 Dec 2024 00:00:00 -0000
+
+ros-jazzy-mrpt-libobs (2.14.5-1noble) noble; urgency=high
+
+
+
+ -- Jose-Luis Blanco-Claraco <joseluisblancoc@gmail.com>  Tue, 05 Nov 2024 00:00:00 -0000
+
+ros-jazzy-mrpt-libobs (2.14.4-1noble) noble; urgency=high
+
+
+
+ -- Jose-Luis Blanco-Claraco <joseluisblancoc@gmail.com>  Sat, 19 Oct 2024 00:00:00 -0000
+
+ros-jazzy-mrpt-libobs (2.14.3-1noble) noble; urgency=high
+
+
+
+ -- Jose-Luis Blanco-Claraco <joseluisblancoc@gmail.com>  Sat, 12 Oct 2024 00:00:00 -0000
+
+ros-jazzy-mrpt-libobs (2.14.2-1noble) noble; urgency=high
+
+  * Add support for override_mrpt_version for local builds
+  * Contributors: Jose Luis Blanco-Claraco
+
+ -- Jose-Luis Blanco-Claraco <joseluisblancoc@gmail.com>  Sat, 05 Oct 2024 00:00:00 -0000
+
+ros-jazzy-mrpt-libobs (2.14.1-1noble) noble; urgency=high
+
+
+
+ -- Jose-Luis Blanco-Claraco <joseluisblancoc@gmail.com>  Tue, 24 Sep 2024 00:00:00 -0000
+
+ros-jazzy-mrpt-libobs (2.13.7-1noble) noble; urgency=high
+
+
+
+ -- Jose-Luis Blanco-Claraco <joseluisblancoc@gmail.com>  Fri, 23 Aug 2024 00:00:00 -0000
+
+ros-jazzy-mrpt-libobs (2.13.6-1noble) noble; urgency=high
+
+  * Add lib suffix to package names
+  * Contributors: Jose Luis Blanco-Claraco
+
+ -- Jose-Luis Blanco-Claraco <joseluisblancoc@gmail.com>  Wed, 14 Aug 2024 00:00:00 -0000
+
+
